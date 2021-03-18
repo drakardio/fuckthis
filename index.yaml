@@ -3,7 +3,7 @@ entries:
   backend:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-03-18T05:49:32.629532344-04:00"
+    created: "2021-03-18T07:22:48.617610741-04:00"
     description: A Helm chart for Kubernetes
     digest: 5f617e6b210b104d7749f38b8d1ba4032aec9afd835c8494633f65c65e5d97c1
     name: backend
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://github.com/drakardio/fuckthis/backend-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-18T05:49:32.627794487-04:00"
+generated: "2021-03-18T07:22:48.615825042-04:00"
